@@ -1,7 +1,8 @@
 <p align="left">
    <img src="https://img.shields.io/badge/Status-En%20Desarrollo-green?style=plastic">
    <img src="https://img.shields.io/badge/JAVA-ED8B00?style=plastic&logo=openjdk&logoColor=white"/>
-   <img src="./assets/banner-java-2025.png>
+
+<img src="./assets/banner-java-2025.png"/>
    
 # Fundamentos de Programación con Java
 
