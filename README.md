@@ -1,3 +1,8 @@
+<p align="left">
+   <img src="https://img.shields.io/badge/Status-En%20Desarrollo-green?style=plastic">
+   <img src="https://img.shields.io/badge/JAVA-ED8B00?style=plastic&logo=openjdk&logoColor=white"/>
+   <img src="./assets/banner-java-2025.png>
+   
 # Fundamentos de Programación con Java
 
 Bienvenido/a al **curso express de Fundamentos de Programación con Java**, un espacio diseñado para introducirte en la lógica de programación y en el paradigma de la programación orientada a objetos utilizando el lenguaje Java. Este curso está pensado para que lo tomes **a tu propio ritmo**, de forma **autónoma**, con clases estructuradas por semanas, presentaciones y ejemplos prácticos de código.
